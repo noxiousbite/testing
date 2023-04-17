@@ -1,5 +1,4 @@
 var nameArray = [];
-
 $("#pick").click(function() {
     // Get the input value
   var names = document.getElementById("names").value;
